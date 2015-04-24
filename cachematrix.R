@@ -60,8 +60,3 @@ cacheSolve <- function(x, ...)
   print(matinv)
   
 }
-
-
-
-
-
